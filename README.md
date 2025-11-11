@@ -160,7 +160,7 @@ Contributions welcome! Please:
 
 **Nabil Khossossi**
 - Website: [sustai-nabil.com](https://sustai-nabil.com)
-- Email: [n.khossossi@differ.nl]
+- Email: n.khossossi@differ.nl
 - GitHub: [@NabKh](https://github.com/NabKh)
 
 ## 📄 License
