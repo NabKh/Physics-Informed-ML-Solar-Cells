@@ -15,7 +15,7 @@ This repository demonstrates how to:
 
 **Key Philosophy**: Rather than treating ML as a black box, we incorporate fundamental photovoltaic physics (band structure, optical absorption, charge transport) into the learning framework.
 
-## 🚀 Quick Start
+## Quick Start
 
 ```python
 from src.data_extraction import MaterialsProjectExtractor
@@ -127,7 +127,7 @@ def theoretical_efficiency(bandgap, temperature=300):
     pass
 ```
 
-## 🎓 Educational Goals
+## Educational Goals
 
 This repository serves as:
 - **Tutorial** for students learning ML for materials science
@@ -149,7 +149,7 @@ Suggest unconventional materials for experimental validation
 Demonstrate integration of physics and machine learning
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please:
 1. Fork the repository
