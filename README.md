@@ -84,7 +84,7 @@ model.fit(features, target='efficiency')
 ### Physics-Constrained Predictions
 ![Predictions](figures/physics_constrained_predictions.png)
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone the repository
