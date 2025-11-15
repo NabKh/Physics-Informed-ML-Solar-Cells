@@ -34,18 +34,18 @@ class PVVisualization:
     
     def __init__(self, style: str = 'nature'):
         """
-        Initialize visualization toolkit.
+        Initialize the visualization toolkit.
         
         Parameters
         ----------
         style : str
-            Figure style: 'nature', 'science', 'acs'
+            Figure style: high quality 300 dp
         """
         self.style = style
         self._setup_style()
         
     def _setup_style(self):
-        """Setup matplotlib style for publications."""
+        """Setup matplotlib style"""
         if self.style == 'nature':
             # Nature journal style
             plt.rcParams['figure.figsize'] = (3.5, 2.625)  # Single column
@@ -71,7 +71,7 @@ class PVVisualization:
         ----------
         df : pd.DataFrame
             Materials dataframe with 'band_gap' column
-        save_path : str, optional
+        save_path: str, optional
             Path to save figure
             
         Returns
